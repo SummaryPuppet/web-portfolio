@@ -9,7 +9,7 @@ const Home = () => {
     <>
       <Container className="mt-2">
         <Row>
-          <Col>
+          <Col className="mb-2">
             <h1 className="mb-4">Adrian Salcedo</h1>
             <p>
               Welcome to a my web portfolio. My space in which you will see my
